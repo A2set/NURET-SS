@@ -20,7 +20,7 @@ How to install:
 Download the library "troykaMQ library" from the Arduino IDE library manager
 
 Using pre-build package:
-1. connect all the requirements like in the "connection structure" in the releases
-1. Download the "skecth_apr29b.ino" from the releases
-2. Upload the code in the IDE on your arduino nano
-3. Now, you can use the gas-analyzer and test it IRL
+1. connect all the requirements like in the "connection structure" in the files
+2. Download the "skecth_apr29b.ino" from the files
+3. Upload the code in the IDE on your arduino nano
+4. Now, you can use the gas-analyzer and test it IRL
